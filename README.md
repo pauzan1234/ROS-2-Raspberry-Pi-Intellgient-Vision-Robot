@@ -1,6 +1,6 @@
-# Robot Pintar Input Kamera Berbasis Rapberry Pi 3B+
-this repository based on Raspberry Pi 3B+ with ROS 2 Humble
-
+# Robot Pintar Berbasis Kamera 
+this repository based on Raspberry Pi 3B+ with ROS 2 Humble, input from camera
 ### Nodes
 - Publisher
-- SUbscriber
+- Subsriber 
+
